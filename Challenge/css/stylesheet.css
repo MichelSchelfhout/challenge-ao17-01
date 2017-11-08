@@ -1,0 +1,124 @@
+
+
+/*===MENU BAR===*/
+
+html body .navbar{
+
+    border-radius: 0;   
+}
+
+/*===================================*/
+
+/*=== BANNER ====*/
+
+.banner {
+  height: 200px;
+  width: 100%;
+  background-image: url("../home/home-banner.jpg");
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.banner2 {
+  height: 200px;
+  width: 100%;
+  background-image: url("../jobs/jobs-banner3.jpg");
+  background-size: cover;
+  background-position: 0px 300px;
+}
+
+.banner3 {
+  height: 200px;
+  width: 100%;
+  background-image: url("../jobs/jobs-banner.jpg");
+  background-size: cover;
+  background-position: 0px 450px;
+}
+
+.banner4 {
+  height: 200px;
+  width: 100%;
+  background-image: url("../contact/contact-banner.jpg");
+  background-size: cover;
+  background-position: 0px 450px;
+}
+
+/*=== TEKST ===*/
+
+html body main .font{
+
+    font-family: 'Libre Baskerville', serif; 
+    font-weight: bold;
+
+}
+
+html body main .font2{
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+}
+
+html body footer .copyright{
+
+    position: fixed;
+    top:930px;
+    width: 100%;
+
+
+    background-color: #343434;
+    
+    
+    
+}
+
+html body footer .copyright p{
+
+    color: #9d9d9d;
+}
+
+/*===BACKGROUND===*/
+
+html body main .outline{
+
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+html body main .outline3{
+
+   margin-left: 200px;
+   margin-top: 0px;
+}
+
+html body header .foto{
+
+    margin-left: 880px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 200px;
+
+}
+
+html body main .oudeman{
+
+    
+    margin: 100px;
+}
+
+html body main #myCarousel{
+
+    width: 400px;
+    height: 500px;
+    float: right;
+    margin: 50px;
+    margin-right: 300px;
+}
+
+html body main .maps{
+
+    
+    height: 400px;
+    position: relative;
+    left: -100px;
+    top: 50px;
+}
